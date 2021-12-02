@@ -6,7 +6,7 @@ I played with machine learning, loops, and plotting data frame data to explore s
 
 Overall I found that learning a new language is a lot harder than I thought and that simple syntax is all I could manage to learn. I also experienced the speed capabilities of it through machine learning neural nets. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/rj1Dde5vc-0)
 
 # Development Environment
 
