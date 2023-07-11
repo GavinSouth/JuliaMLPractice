@@ -17,7 +17,7 @@
 #using FileIO
 
 
-enerate_real_data(train_size)
+real = generate_real_data(train_size)
 fake = generate_fake_data(train_size)
 
 scatter(real[1,1:500],real[2,1:500])
